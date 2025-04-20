@@ -1,0 +1,9 @@
+npm init -y
+npm i express
+npm i mongoose
+index.js  //create it 
+.env   // create it 
+npm i dotenv 
+npm i nodemon
+
+
