@@ -6,4 +6,6 @@ index.js  //create it
 npm i dotenv 
 npm i nodemon
 
-
+// .envContent
+DBURL= mongodb://127.0.0.1:27017/userEnquiry
+PORT= 8000
